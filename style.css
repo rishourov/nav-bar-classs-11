@@ -1,0 +1,36 @@
+.navbar {
+
+    background-color: rgb(251, 251, 251);
+    height: 60px;
+    border: 1px solid rgb(200, 191, 191);
+    border-radius: 2%;
+    margin-top: 80px;
+
+}
+
+.navbar img {
+    width: 80px;
+
+}
+
+.navbar a {
+    text-decoration: none;
+    margin-left: 30px;
+    font-size: 18px;
+    color: rgb(60, 73, 85);
+    padding-left: 45px;
+}
+
+.src {
+    margin-left: 70px;
+    font-size: 15px;
+    /* border-radius: 20px; */
+    padding-left: 30px;
+}
+
+.btn {
+    margin-left: 10px;
+    font-size: 15px;
+    /* border-radius: 10px; */
+
+}
